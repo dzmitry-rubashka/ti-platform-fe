@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text"), url(./fonts/SF-Pro-Text-Regular.otf) format("otf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

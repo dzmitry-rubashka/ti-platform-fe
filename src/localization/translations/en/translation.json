@@ -1,0 +1,53 @@
+{
+  "header" : {
+    "title" : "Interview Platform",
+    "userProfile" : "User Profile"
+  },
+  "schedulePage" : {
+    "schedule" : "Schedule page"
+  },
+  "calendar" : {
+    "days" : {
+      "monday": "Monday",
+      "tuesday" : "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday" : "Thursday",
+      "friday" : "Friday",
+      "saturday" : "Saturday",
+      "sunday": "Sunday"
+    },
+    "months" : {
+      "jan": "January",
+      "feb": "February",
+      "mar": "March",
+      "apr": "April",
+      "may": "May",
+      "jun": "June",
+      "jul": "July",
+      "aug": "August",
+      "sep": "September",
+      "oct": "October",
+      "nov": "November",
+      "dec": "December"
+    }
+  },
+  "interviewInfo": {
+    "technologies": "Technologies",
+    "expectedLevel" : "Expected level",
+    "interviewers" : "Interviewers",
+    "date" : "Date"
+  },
+  "fallback": {
+    "errorMessage": "Something went wrong, please try to reload page."
+  },
+  "modal": {
+    "cancel": "Cancel"
+  },
+  "users": {
+    "add": "Add new user",
+    "remove" : "Remove last user"
+  },
+  "dropdown": {
+    "choices": "Choices"
+  }
+}
